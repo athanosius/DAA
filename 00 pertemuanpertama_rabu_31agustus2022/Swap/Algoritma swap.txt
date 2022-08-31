@@ -1,0 +1,17 @@
+
+
+Fungsi untuk menukar dua variabel x dan y:
+
+Algoritma : 
+step 1 memasukkan nilai x kedalam buffer 
+step 2 memasukkan nilai y kedalam x (ket : x kosong krn step sblmnya)
+step 3 memasukkan buffer kedalam y (ket : nilai x menjadi y , nilai y menjadi x)
+
+define swap(x, y)
+
+buffer = x
+x = y
+y = buffer
+
+
+r

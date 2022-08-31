@@ -1,0 +1,32 @@
+kpk 
+3 & 4 = 12
+
+algortima 
+
+step 1 input bilangan 1 dan bilangan 2 (bil1 & bil2)
+step 2 jika bilangan 1 lebih kecil dari 2, maka bilangan satu dimasukkan ke temp (sementara)
+step 3 masukkan nilai bilangan 2 ke bilangan 1 dan nilai temp ke bilangan 2. akhiri if
+step 4 ulangi hasil + bilangan 2 dan masukkan ke hasil 
+steo 5 sampai hasil di bagi bilangan 2 
+
+pseudo code :
+
+kpk integer 
+hasil integer
+
+kpk <---- 0
+if(bil1<bil2) then
+     temp <--- bil1
+           bil1 <--- bil2
+           bil2 <--- temp
+endif
+repeat
+       hasil <--- hasil +bil2
+until   hasil mod bil2 ≠ 0
+
+
+input 2 bilangan 
+bil 1 = 3
+bil 2 = 4
+
+jika bil 

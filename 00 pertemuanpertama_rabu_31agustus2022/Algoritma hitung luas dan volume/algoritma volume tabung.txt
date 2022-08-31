@@ -1,0 +1,16 @@
+- Algoritma 
+
+Step 1 Mendeklarasikan volume, jari-jari, tinggi
+Step 2 masukkan jari-jari = 3, tinggi =5
+Step 3 Menghitung volume = π r² x t
+Step 4 Menampilkan volume
+
+var volume, jari-jari, tinggi,Pi
+
+Pi        <---- 3.14159
+jari-jari <---- 3
+tinggi    <---- 5
+
+volume =  Pi*r*r*t;
+
+write(volume)

@@ -1,0 +1,21 @@
+
+- Algoritma 
+
+Step 1 Mendeklarasikan luas, alas, tinggi, dan panjang
+Step 2 panjang = alas, Masukan alas = 5, tinggi = 3
+Step 3 Menghitung luas = alas*tinggi
+Step 4 Menampilkan luas
+
+
+- Pseudocode 
+
+var luas, tinggi, alas, panjang
+
+panjang = alas
+
+alas    <---- 5
+tinggi  <---- 3
+
+luas = alas*tinggi
+
+write(luas)

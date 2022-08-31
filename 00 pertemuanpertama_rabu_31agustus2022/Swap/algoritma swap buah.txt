@@ -1,0 +1,24 @@
+- swap buah 
+
+Algoritma :
+step 1 memasukkan buah1 kedalam temp 
+atep 2 memasukkan buah 2 kedalam buah1
+
+
+
+buah1 = manggis;
+buah2 = pisang;
+
+piring1 = buah1;
+piring2 = buah2;
+piring3 = null;
+
+define swap(piring1, piring2);
+
+piring3 = piring1
+piring1 = piring2
+piring2 = piring3
+
+output : 
+"piring1:"+buah2
+"piring2:"+buah1

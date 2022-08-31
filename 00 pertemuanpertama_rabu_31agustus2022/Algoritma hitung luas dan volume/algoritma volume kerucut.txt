@@ -1,0 +1,17 @@
+- Algoritma 
+
+Step 1 Mendeklarasikan volume, diameter, dan tinggi
+Step 2 Masukan diameter = 5, tinggi = 4. dan r = diameter dibagi 2
+Step 3 Menghitung volume = 1/3 × π × r × r × t
+Step 4 Menampilkan luas
+
+- var volume, diameter, tinggi, r, PI
+
+PI        <---- 3.14159
+diameter  <---- 5
+r         <---- diameter/2
+tinggi    <---- 4
+
+volume =   (PI * r * r * t)/3
+
+write(volume)
